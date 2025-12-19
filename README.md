@@ -10,10 +10,6 @@ using file handling.
 - Delete student records
 - Persistent storage using files
 
-## Folder Structure
-- src/   → Source code
-- data/  → Student records file
-
 ## How to Run
 ```bash
 gcc src/student_management.c
